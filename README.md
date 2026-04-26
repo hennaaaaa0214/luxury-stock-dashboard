@@ -20,7 +20,6 @@ An interactive Streamlit dashboard that analyses whether luxury stocks (LVMH, He
 
 ```
 ├── app.py                        # Main Streamlit application
-├── luxury_stocks_analysis.ipynb  # Original analysis notebook
 ├── requirements.txt              # Python dependencies
 └── README.md                     # This file
 ```
