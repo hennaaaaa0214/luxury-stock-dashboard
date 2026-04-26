@@ -19,7 +19,6 @@ An interactive Streamlit dashboard that analyses whether luxury stocks (LVMH, He
 ## Project Structure
 
 ```
-test/
 ├── app.py                        # Main Streamlit application
 ├── luxury_stocks_analysis.ipynb  # Original analysis notebook
 ├── requirements.txt              # Python dependencies
@@ -48,7 +47,7 @@ test/
 
 ```bash
 git clone <repo-url>
-cd test
+cd luxury-stock-dashboard
 ```
 
 **2. Create and activate a virtual environment** *(recommended)*
